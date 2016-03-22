@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 <<<<<<< HEAD
-ths is master
+this is masterbranch
 =======
 ths is newbranch
+sdfsadf
+
 >>>>>>> newbranch
