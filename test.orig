@@ -1,0 +1,8 @@
+//sudo apt-get install git-core
+#include <stdio.h>
+
+<<<<<<< HEAD
+ths is master
+=======
+ths is newbranch
+>>>>>>> newbranch
